@@ -1,5 +1,5 @@
 # DataAnalystPortfolio
-Portfolio containing my projects for data analyst job applications
+Portfolio containing my data analysis projects
 
  Hi My name is Abdi Adem. I am interested in pursuing a career in the field of data science. With a degree in Industrial Engineering 
 and an interest in analytics, it is only natural that I have a desire to get into data science, as there is quite an overlap between 
