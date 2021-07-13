@@ -6,3 +6,11 @@ and an interest in analytics, it is only natural that I have a desire to get int
 engineering and data science with the use of analysis and problem solving.
 
 You can reach me by email at abdi-adem@hotmail.com
+
+
+## NYC SAT Analysis
+
+Github link
+Nbviewer link
+
+This project looks into SAT scores for NYC highschools, and uses various factors to plot correlations and determine what effects SAT scores the most.
