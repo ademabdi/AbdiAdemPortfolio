@@ -20,4 +20,4 @@ This project looks into SAT scores for NYC highschools, and uses various factors
 [Github link](https://github.com/ademabdi/DataAnalystPortfolio/blob/main/Answering%2BBusiness%2BQuestions%2BUsing%2BSQL.ipynb)
 [Nbviewer link](https://nbviewer.jupyter.org/github/ademabdi/DataAnalystPortfolio/blob/main/Answering%2BBusiness%2BQuestions%2BUsing%2BSQL.ipynb)
 
-This project looks into SAT scores for NYC highschools, and uses various factors to plot correlations and determine what affects SAT scores the most.
+This project analyzes information from a digital record store named Chinook and uses SQL to derive insights.
