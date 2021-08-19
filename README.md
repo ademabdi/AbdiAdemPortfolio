@@ -13,4 +13,11 @@ You can reach me by email at abdi-adem@hotmail.com
 [Github link](https://github.com/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)
 [Nbviewer link](https://nbviewer.jupyter.org/github/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)
 
-This project looks into SAT scores for NYC highschools, and uses various factors to plot correlations and determine what effects SAT scores the most.
+This project looks into SAT scores for NYC highschools, and uses various factors to plot correlations and determine what affects SAT scores the most.
+
+## Answering Business Questions Using SQL
+
+[Github link](https://github.com/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)
+[Nbviewer link](https://nbviewer.jupyter.org/github/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)
+
+This project looks into SAT scores for NYC highschools, and uses various factors to plot correlations and determine what affects SAT scores the most.
