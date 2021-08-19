@@ -17,7 +17,7 @@ This project looks into SAT scores for NYC highschools, and uses various factors
 
 ## Answering Business Questions Using SQL
 
-[Github link](https://github.com/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)
-[Nbviewer link](https://nbviewer.jupyter.org/github/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)
+[Github link](https://github.com/ademabdi/DataAnalystPortfolio/blob/main/Answering%2BBusiness%2BQuestions%2BUsing%2BSQL.ipynb)
+[Nbviewer link](https://nbviewer.jupyter.org/github/ademabdi/DataAnalystPortfolio/blob/main/Answering%2BBusiness%2BQuestions%2BUsing%2BSQL.ipynb)
 
 This project looks into SAT scores for NYC highschools, and uses various factors to plot correlations and determine what affects SAT scores the most.
