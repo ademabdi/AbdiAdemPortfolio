@@ -11,7 +11,9 @@ You can reach me by email at abdi-adem@hotmail.com
 ## NYC SAT Analysis
 
 [Github](https://github.com/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)<br>
-[Nbviewer](https://nbviewer.jupyter.org target="_blank"/github/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)
+[Nbviewer](https://nbviewer.jupyter.org/github/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)
+
+<a href="https://nbviewer.jupyter.org/github/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb" target="_blank" rel="noopener nofollow ugc" dir="ltr">Click here to view the jupyter notebook file in a new tab <span class="badge badge-notification clicks" title="7 clicks" dir="ltr">7</span></a>
 
 This project looks into SAT scores for NYC highschools, and uses various factors to plot correlations and determine what affects SAT scores the most.
 
