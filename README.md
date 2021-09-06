@@ -18,5 +18,6 @@ This project looks into SAT scores for NYC highschools, and uses various factors
 ## Answering Business Questions Using SQL
 
 [Github link](https://github.com/ademabdi/DataAnalystPortfolio/blob/main/AnsweringBusinessQuestionsUsingSQL.ipynb)
+[Nbviewer link](https://nbviewer.jupyter.org/https://github.com/ademabdi/DataAnalystPortfolio/blob/main/AnsweringBusinessQuestionsUsingSQL.ipynb)
 
 This project analyzes information from a digital record store named Chinook and uses SQL to derive insights.
