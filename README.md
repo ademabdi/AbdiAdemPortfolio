@@ -1,6 +1,8 @@
 # Data Analyst Portfolio by Abdi Adem
 Portfolio containing my data analysis projects
 
+Hi, my name is Abdi Adem. I made this portfolio initially for data analyst projects exclusively, but over time, I have developed interest in cybersecurity, cloud computing, and web design. I look forward to committing project/s that incorporate these topics in the near future. 
+
 ## NYC SAT Analysis
 
 [Github](https://github.com/ademabdi/DataAnalystPortfolio/blob/main/BestNYCBoroughforHighSchools.ipynb)<br>
