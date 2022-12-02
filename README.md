@@ -16,3 +16,9 @@ This project looks into SAT scores for NYC highschools, and uses various factors
 [Nbviewer](https://nbviewer.jupyter.org/github/ademabdi/DataAnalystPortfolio/blob/main/AnsweringBusinessQuestionsUsingSQL.ipynb)
 
 This project analyzes information from a digital record store named Chinook and uses SQL to derive insights.
+
+## Crypto Price Alerter
+
+[Github](https://github.com/ademabdi/Crypto-Price-Alerter)<br>
+
+A simple script requesting the user to input the id for a particular cryptocurrency (found on the CoinGecko API documentation), and outputting desktop notifications every hour 
